@@ -1,0 +1,147 @@
+/* &display=swap */
+@import "null.css";
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	margin: 152px 753px 120px 345px;
+}
+/* ================================================================ */
+
+/* ========================= Part 1 ============================== */
+
+h2 {
+	font-weight: 900;
+	font-size: 50px;
+	text-transform: uppercase;
+	max-width: 300px;
+	margin-bottom: 190px;
+}
+
+body {
+	font-family: "Lato", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	color: #424551;
+}
+
+.header {
+	color: #1e212c;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.3;
+	margin-bottom: 26px;
+}
+
+.data {
+	display: inline-block;
+	background: url(../img/vector_stroke.png) no-repeat;
+	color: #787a80;
+	padding-left: 24px;
+	padding-right: 24px;
+	margin-bottom: 40px;
+}
+
+.time {
+	display: inline-block;
+	background: url(../img/union.png) no-repeat;
+	color: #787a80;
+	padding-left: 24px;
+}
+
+.img__dekstop {
+	margin-bottom: 60px;
+}
+
+.paragraph__one {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	margin-bottom: 24px;
+}
+
+.paragraph__text {
+	line-height: 1.6;
+	margin-bottom: 30px;
+}
+
+.paragraph__text-two {
+	line-height: 1.6;
+	margin-bottom: 48px;
+}
+
+.paragraph__quote {
+	color: #1e212c;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+	background: url(../img/braces.png) no-repeat;
+	padding-left: 58px;
+	margin-bottom: 48px;
+}
+
+.paragraph__text-three {
+	margin-bottom: 24px;
+}
+
+.list__text li {
+	background: url(../img/check.png) 0 5px no-repeat;
+	padding-left: 32px;
+	line-height: 1.6;
+	margin-bottom: 4px;
+}
+
+ul {
+	margin-bottom: 24px;
+}
+
+.paragraph__last {
+	line-height: 1.6;
+	margin-bottom: 60px;
+}
+
+/* ========================= Part 2 ============================== */
+
+h3 {
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1.5;
+	letter-spacing: 1px;
+	color: #1e212c;
+	margin-bottom: 8px;
+}
+
+h4 {
+	color: #1e212c;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.3;
+	margin-bottom: 40px;
+}
+
+ul.list__texttwo {
+	max-width: 390px;
+	line-height: 1.6;
+	margin-bottom: 48px;
+}
+
+.list__texttwo li {
+	background: url(../img/check.png) 0 5px no-repeat;
+	padding-left: 32px;
+	margin-bottom: 12px;
+}
+
+.button {
+	font-weight: 700;
+	font-size: 14px;
+	color: #ffffff;
+	line-height: 44px;
+	letter-spacing: 0.5px;
+	background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+	border-radius: 4px;
+	max-width: 161px;
+	max-height: 44px;
+	padding: 0 32px;
+	margin-bottom: 26px;
+}
